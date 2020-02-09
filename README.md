@@ -1,4 +1,4 @@
-# Node DB3 Guided Project
+# Node DB3 Guided Project #
 
 Guided project for **Node DB3** Module.
 
